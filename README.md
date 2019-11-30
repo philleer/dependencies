@@ -1,3 +1,3 @@
-# opencv_dep
+# dependencies
 
-* those are dependencies for opencv compile
+* those are dependencies for compiling
